@@ -1,0 +1,22 @@
+{
+  "new": {
+    "id": 20221211,
+    "username": "APItester",
+    "firstName": "Any",
+    "lastName": "Body",
+    "email": "test@mail.com",
+    "password": "test",
+    "phone": "string",
+    "userStatus": 1
+  },
+  "update": {
+    "id": 20221211,
+    "username": "APItester",
+    "firstName": "Any",
+    "lastName": "Body",
+    "email": "test@mail.com",
+    "password": "test",
+    "phone": "1234567",
+    "userStatus": 1
+  }
+}

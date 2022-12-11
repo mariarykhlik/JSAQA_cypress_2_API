@@ -1,0 +1,15 @@
+{
+  "name": "jsaqa_cypress_2_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run --record --key de0f7961-e1dc-4578-b9b5-87de27171dd2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.11.0"
+  }
+}
